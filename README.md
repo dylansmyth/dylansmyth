@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dylansmyth
-- 👀 I’m interested in everything Software Engineering related, whether it's configuring cloud services, building hardcode, solid backend solutions, or designing and implementing beautiful and aesthetically pleasing frontends
+- 👀 I’m interested in everything Software Engineering related, whether it's configuring cloud services, building hardcore, solid backend solutions, or designing and implementing beautiful and aesthetically pleasing frontends
 - 🌱 I’m currently learning C#, .NET, Python, Android-, Swift- and Cross-Platform Development, with some hardware integration
 - 💞️ I’m looking to collaborate on any projects
 
