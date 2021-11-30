@@ -1,6 +1,7 @@
 
 ## 🏠 About me
-- 👋 Hi, I’m @dylansmyth
+👋 Hi, I’m @dylansmyth
+
 - 👀 I’m interested in everything Software Engineering related, whether it's configuring cloud services, building hardcore, solid backend solutions, or designing and implementing beautiful and aesthetically pleasing frontends
 - 🌱 I’m currently learning a lot of new technologies and technology stacks
 - 💞️ I’m looking to collaborate on any projects
